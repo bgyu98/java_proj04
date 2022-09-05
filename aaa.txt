@@ -1,0 +1,1 @@
+*.txt 파일은 .gitignore에 등록 되지 않았으므로 github에 업로드 됩니다.
